@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white
+
+}
+
+div {
+    text-align:center;
+
+}
+
+h1, h2, h3 {
+    background-color: darkblue;
+
+}
+
+table {
+    width:auto;
+    text-align: center;
+
+}
