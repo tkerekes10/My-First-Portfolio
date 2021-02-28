@@ -1,12 +1,11 @@
 body {
     background-image: url("assets/images/my-background2.jpg");
-    background-color: #cccccc;
 }
 
 .cont-about-me, .cont-projects, .cont-contact-me {
     border: 15px solid green;
     background-color: teal;
-/*     color: white; */
+    color: white;
 
 }
 
