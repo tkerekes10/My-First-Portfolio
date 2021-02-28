@@ -1,6 +1,6 @@
 body {
     height:1200px;
-    background-image: url('/Course/02-Advanced-CSS/02-Homework/Portfolio_de_Tom/assets/images/Background.jpg');
+    background-image: url('/assets/images/Background.jpg');
 }
 
 .cont-about-me, .cont-projects, .cont-contact-me {
