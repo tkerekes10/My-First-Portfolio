@@ -9,6 +9,10 @@ body {
 
 }
 
+a {
+    color: white;
+}
+
 .link-logo {
     width: 100px;
     height: 30px;
